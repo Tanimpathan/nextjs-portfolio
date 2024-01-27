@@ -2,4 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.nav-item {
+  @apply flex-1 p-3 text-center sm:p-4;
+}
